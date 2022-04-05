@@ -1,0 +1,49 @@
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+h2{
+    color: rgb(220, 20, 20);
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: rgb(255, 217, 0);
+}
+ul{
+    border: 5px dotted;
+    color: rgb(255, 217, 0);
+    width: 50%;
+    margin: auto;
+    list-style: none;
+    padding: 0;
+}
+ul li{
+    border:outset 3px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.links{
+    color: goldenrod;
+    list-style: none;
+}
+img{
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+.bio{
+    color: rgb(220, 20, 20);
+}
+.cars{
+    color: rgb(220, 20, 20);
+}
+.book{
+    color: rgb(255, 217, 0);
+}
+.mag{
+    color: #000;
+}
+.sell{
+    color: rgb(255, 217, 0);
+}
